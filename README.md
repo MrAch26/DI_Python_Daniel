@@ -1,10 +1,11 @@
 # DI_Python_Daniel
- Catch Up for python and django
+ Catch Up for Python and Django
 
 Section 1: Course Introduction
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction
 - https://gist.github.com/bradtraversy/0df61e9b306db3d61eb24793b6b7132d
- Section 2: Getting Setup
+
+Section 2: Getting Setup
 - https://www.python.org
 
 Section 3: Python Language Fundamentals (Optional)
