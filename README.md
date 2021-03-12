@@ -23,6 +23,9 @@ Section 4: Project Specs & Getting Started
 - gitignore.io
 
 Section 5: Apps, URLs & Templates
+- https://www.postgresql.org/download/windows/ -windows
+- https://postgresapp.com/downloads.html -mac
+- https://www.pgadmin.org/
 
 Section 6: Models, Migrations & Admin
 
